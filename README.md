@@ -31,4 +31,4 @@ Simulate a real beverage vending machine by FPGA (Basys3 board) and some physica
 ![](imgs/vending.png)
 
 ## Block diagram
-![](imgs/block.png)
+![](imgs/diagram.png)
