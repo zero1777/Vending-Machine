@@ -14,7 +14,14 @@ Simulate a real beverage vending machine by FPGA (Basys3 board) and some physica
 
 ![](imgs/fpga.png)
 
-## Physical materials
+## Physical materials: Physical machines
+
+### Beverage vending machine 
+- Made by pearl plate (珍珠板) and servo motor (伺服馬達)
+- Each kind of beverages is stored in a different slow slope with a wooden stick blocking.
+- Once a beverage is purchased, the wooden stick rotates half turn to let the beverage drop down to a box. And the box will deliver the beverage to the exit by servo motor.
+
+![](imgs/vending.png)
 
 ### Coin slot machine
 - Made by pearl plate (珍珠板) and touch switch (觸動開關)
@@ -22,13 +29,6 @@ Simulate a real beverage vending machine by FPGA (Basys3 board) and some physica
 - When there's coin dropping, the corresponding touch switch will be trigger and send the signal back to the FPGA.
 
 ![](imgs/coin.png)
-
-### Beverage vending machine 
-- Made by pearl plate (珍珠板) and servo motor (伺服馬達)
-- Each kind of beverages are stored in a different slow slope with a wooden stick blocking.
-- Once a beverage is purchased, the wooden stick rotates half turn to let the beverage drop down to a box. And the box will deliver the beverage to the exit by servo motor.
-
-![](imgs/vending.png)
 
 ## Block diagram
 ![](imgs/diagram.png)
