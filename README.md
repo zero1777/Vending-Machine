@@ -14,7 +14,7 @@ Simulate a real beverage vending machine by FPGA (Basys3 board) and some physica
 
 ![](imgs/fpga.png)
 
-## Physical materials
+## Physical materials: Physical machines
 
 ### Beverage vending machine 
 - Made by pearl plate (珍珠板) and servo motor (伺服馬達)
